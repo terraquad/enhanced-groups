@@ -1,1 +1,3 @@
-- Updated to 1.21.4
+- Added global auto join group option
+- Improved config comments
+- Fixed error when auto joining groups in single player
